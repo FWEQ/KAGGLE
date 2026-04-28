@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
+home_data/data
+titanic_tensorflow/data
+csiro-biomass/data/train
+csiro-biomass/data/test
